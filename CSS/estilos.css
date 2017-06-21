@@ -1,0 +1,47 @@
+#Cabecera {
+    height: 73px;
+    width: 100%;
+    border:solid 3px black;
+    display:block;
+    float: top;
+    background-color: blue;
+}
+
+#Login {
+    height: 500px;
+    width: 100%;
+    border:solid 3px black;
+    display:block;
+    float: top;
+    text-align: center;
+}
+
+#Cuerpo {
+    height: 500px;
+    width: 100%;
+    border:solid 3px black;
+    display:block;
+    float: top;
+    text-align: center;
+}
+
+
+#MantenedorTienda {
+    height: 500px;
+    width: 49%;
+    border:solid 3px black;
+    display:block;
+    float: left;
+    text-align: center;
+}
+
+#MantenedorUser {
+    height: 500px;
+    width: 49%;
+    border:solid 3px black;
+    display:block;
+    float: right;
+    text-align: center; 
+}
+
+
